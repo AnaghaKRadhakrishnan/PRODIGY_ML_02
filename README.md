@@ -2,7 +2,7 @@
 ## Customer Segmentation using K-Means Clustering
 This repository contains a Python implementation of customer segmentation using K-Means clustering based on purchase history data from a retail store. The goal is to group customers into distinct segments based on their behavior, such as their annual income, spending score, and age. This kind of segmentation can help businesses target specific customer groups with personalized marketing strategies.
 
-#Table of Contents
+# Table of Contents
 
 Project Overview
 Technologies Used
@@ -12,7 +12,7 @@ Usage
 Steps Involved
 License
 
-#Project Overview
+# Project Overview
 In this project, we apply K-means clustering to group customers based on their purchase behavior. We use the Mall Customers Dataset, which contains customer data including their Age, Annual Income (k$), Spending Score (1-100), and Gender.
 
 The project includes the following key steps:
